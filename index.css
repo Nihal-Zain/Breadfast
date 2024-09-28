@@ -1,0 +1,168 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav-item .nav-link:hover{
+    text-decoration: underline #aa0082;
+    text-underline-offset: 10px;
+    font-weight: bolder;
+}
+.contant h2{
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 50px;
+    color: #aa0082;
+}
+.firstp{
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 20px;
+}
+.secp{
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 30px;
+    margin-top: 20px;
+    text-shadow: 10px;
+}
+.protxt h2{
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 40px;
+    color: #aa0082;
+}
+.protxt p{
+    font-weight: 400;
+    color: #37393a;
+}
+.protxt button{
+    background-color: #aa0082;
+    color: white;
+    font-size: 15px;
+}
+.protxt button:hover{
+    border: solid 2px #aa0082;
+    background-color: white;
+}
+.contant img{
+width: 120px;
+height: 40px;
+box-shadow: 30px;
+}
+.txt h6{
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+   font-style: normal;
+    font-size: 20px;
+    color: #aa0082;
+}
+.txt p{
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 15px;
+}
+.txt button{
+    color: #aa0082;
+    border: solid 2px #aa0082;
+}
+.txt button:hover{
+    background-color: #aa0082;
+    color: white;
+}
+.title h5{
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+    color: #aa0082;
+}
+.shoptxt h4{
+    font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+ font-style: normal;
+  font-size: 35px;
+  color: #aa0082;
+  padding-top: 20px;
+}
+.shoptxt h6{
+    font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+ font-style: normal;
+ padding-bottom: 10px;
+}
+.shoptxt img{
+    width: 120px;
+    height: 40px;
+}
+.bit p{
+    font-weight: 700;
+    font-size: 20px;
+    padding: 10px;
+}
+.bit a{
+    text-decoration: none;
+    color: #aa0082;
+    margin-left: 30px;
+}
+.social-links{
+    display: flex;
+    justify-content: center;
+}
+ul li{
+    list-style-type: none;
+}
+.social-links i {
+    padding: 5px;
+    color: black;
+}
+.socialwidth{
+    width: 30px;
+    height: 30px;
+    border: solid 2px white;
+    text-align: center;
+    border-radius: 50%;
+    background-color: white;
+}
+.socialwidth:hover{
+background-color:#37393a;
+color: white;
+}
+.socialwidth i:hover{
+    color: white;
+}
+.col-md-4 h3{
+    color: white;
+    font-weight: 600;
+    font-size: 20px;
+    padding-top: 50px;
+    padding-left: 50px;
+}
+.col-md-4 li{
+    color:lightgray;
+    font-weight: 400;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+ul a{
+    text-decoration: none;
+}
+h5 a{
+    color: lightgray;
+    text-decoration: none;
+}
+
